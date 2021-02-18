@@ -41,7 +41,7 @@ section#Information > div > select {
     
     -webkit-appearance: none; -moz-appearance: none; appearance: none;
     
-    background:  url("../files/icons8-expand-arrow-18\ \(1\).png") no-repeat right center;
+    background:  url("../files/icons8-chevron-bas-16\(1\).png") no-repeat right center;
 
 }
 
@@ -129,6 +129,6 @@ section#Information > div.businessInformation >  div.inputCourtInformation >  se
     border-bottom: .3px solid #8b8b8b;
     -webkit-appearance: none; -moz-appearance: none; appearance: none;
 
-    background:  url("../files/icons8-expand-arrow-18\ \(1\).png") no-repeat right center;
+    background:  url("../files/icons8-chevron-bas-16\(1\).png") no-repeat right center;
 
 }

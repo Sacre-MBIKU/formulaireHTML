@@ -43,7 +43,7 @@ section#Details > div > select {
   
     -webkit-appearance: none; -moz-appearance: none; appearance: none;
    
-    background: transparent url("../files/icons8-expand-arrow-18\ \(1\).png") no-repeat right center;
+    background: transparent url("../files/icons8-chevron-bas-16.png") no-repeat right center;
 
 
 }
@@ -106,7 +106,7 @@ section#Details > div > select#Position{
     border-bottom: .6px solid #8b8b8b;
     -webkit-appearance: none; -moz-appearance: none; appearance: none;
     padding: 10px;
-    background:  url("../files/icons8-expand-arrow-18\ \(1\).png") no-repeat right center;
+    background:  url("../files/icons8-chevron-bas-16.png") no-repeat right center;
 
 }
 
@@ -161,7 +161,7 @@ section#Details > div.businessDetails >  div.inputCourtDetails >  select#Employe
     color: #ffffff !important;
     -webkit-appearance: none; -moz-appearance: none; appearance: none;
     padding: 10px;
-    background:  url("../files/icons8-expand-arrow-18\ \(1\).png") no-repeat right center;
+    background:  url("../files/icons8-chevron-bas-16.png") no-repeat right center;
 
 }
 
