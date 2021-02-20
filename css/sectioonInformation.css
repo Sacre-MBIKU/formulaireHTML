@@ -87,17 +87,17 @@ section#Information > div > select#Position{
 
 
 .NameInformation > div > input#lastName{
-    width: 80%;
+    width: 110%;
     border-style: none;
     border-bottom: .6px solid #8b8b8b;
-    margin-left: 18%;
+    margin-left: -10%;
     padding: 10px;
 }
 
 
  .businessInformation > div > input {
    
-    width: 80%;
+    width: 100%;
     border-style: none;
     border-bottom: .6px solid #8b8b8b;
     padding: 10px;
@@ -121,9 +121,9 @@ section#Information > div.businessInformation >  div.inputCourtInformation >  se
     padding: 10px;
     border-style: none;
     border-bottom: .6px solid #8b8b8b;
-    width: 70% ;
+    width: 90% ;
     background-color: unset;
-    margin-left: 29%;
+    margin-left: 9.5%;
     color: #8b8b8b;
     border-style: none;
     border-bottom: .3px solid #8b8b8b;
@@ -131,4 +131,8 @@ section#Information > div.businessInformation >  div.inputCourtInformation >  se
 
     background:  url("../files/icons8-chevron-bas-16\(1\).png") no-repeat right center;
 
+}
+
+#Employees{
+    width: 80%;
 }

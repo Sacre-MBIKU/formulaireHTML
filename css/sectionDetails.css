@@ -87,7 +87,7 @@ section#Details > div > select#Position{
 .NameDetails > div.inputCourtNumberOf > input
 {
     -webkit-appearance: none; -moz-appearance: none; appearance: none;
-    width: 100%;
+    width: 70%;
     color: #ffffff !important;
     background-color: #4935d4;
     
@@ -100,7 +100,6 @@ section#Details > div > select#Position{
 
 .NameDetails > div.inputCourtDetailsPlace > select{
     border-style: none;
-    
     color: #ffffff !important;
     border-style: none;
     border-bottom: .6px solid #8b8b8b;
@@ -113,18 +112,19 @@ section#Details > div > select#Position{
 .NameDetails > div.inputCourtDetailsPlace > select,
 .NameDetails > div.inputCourtDetails > input
 {
-    width: 100%;
+    width: 135%;
     background-color: #4935d4;
+    margin-left: -35%;
 }
 
 .NameDetails > div.inputCourtDetails > input
 {
-    width: 100%;
+    
     background-color: #4935d4;
 }
 
 #numberOf{
-    width: 100%;
+    width: 70%;
 }
 
 .businessDetails > div {
