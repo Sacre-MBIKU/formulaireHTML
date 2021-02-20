@@ -12,7 +12,7 @@
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    padding: 2% 0 0 5%;
+    padding: 2% 0 0 3%;
     box-shadow: 2px 2px 6px #18192b4b;
     
 }
@@ -25,7 +25,10 @@
 
 section#Information > h1,  section#Information > div{
     margin-bottom: 2.8%;
+    margin-right: -2%;
     height: 7%;
+    
+    
 }
 
 
@@ -35,6 +38,7 @@ section#Information > div > input, section#Information > div > select {
     border-style: none;
     border-bottom: .3px solid #8b8b8b;
     padding: 10px;
+    
 }
 
 section#Information > div > select {
@@ -52,6 +56,7 @@ section#Information > div > select#Position{
     background-color: unset;
     color: #8b8b8b;
     padding: 10px;
+    
 }   
 
 .companyInformation{
@@ -59,7 +64,7 @@ section#Information > div > select#Position{
 }
 
 .companyInformation > input{
-    width: 100%;
+    width: 102%;
 }
 
 
@@ -87,7 +92,7 @@ section#Information > div > select#Position{
 
 
 .NameInformation > div > input#lastName{
-    width: 110%;
+    width: 113.5%;
     border-style: none;
     border-bottom: .6px solid #8b8b8b;
     margin-left: -10%;
@@ -97,7 +102,7 @@ section#Information > div > select#Position{
 
  .businessInformation > div > input {
    
-    width: 100%;
+    width: 104%;
     border-style: none;
     border-bottom: .6px solid #8b8b8b;
     padding: 10px;
@@ -121,9 +126,9 @@ section#Information > div.businessInformation >  div.inputCourtInformation >  se
     padding: 10px;
     border-style: none;
     border-bottom: .6px solid #8b8b8b;
-    width: 90% ;
+    width: 92% ;
     background-color: unset;
-    margin-left: 9.5%;
+    margin-left: 11.7%;
     color: #8b8b8b;
     border-style: none;
     border-bottom: .3px solid #8b8b8b;
